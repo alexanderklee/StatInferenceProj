@@ -1,0 +1,2 @@
+# StatInferenceProj
+Statistical Inference Project
